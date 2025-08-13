@@ -1,3 +1,6 @@
+#ENV
+VITE_BASE_API_URL=http://localhost:3003
+
 # English Learning Community - Ứng dụng học tiếng Anh UGC
 
 ## 🎯 Mô tả dự án
